@@ -9,7 +9,7 @@ import "./index.css";
 export default function Projects() {
   return (
     <div className="projects-container">
-      <h1>My Projects1</h1>
+      <h1>My Projects</h1>
       <div className="projects-blocks">
         <div className="project-block1">
           <a
@@ -49,7 +49,7 @@ export default function Projects() {
         </div>
         <div className="project-block">
           <h1>02</h1>
-          <h3>crypto website</h3>
+          <h3>Crypto website</h3>
           <p>
             This site is a crypto site that contains information, price and
             chart information about various crypto currencies
@@ -71,7 +71,7 @@ export default function Projects() {
         </div>
         <div className="project-block">
           <h1>03</h1>
-          <h3>countrys website</h3>
+          <h3>Countrys website</h3>
           <p>
             This site will give you complete information about the states. You
             can search almost all countries
@@ -93,7 +93,7 @@ export default function Projects() {
         </div>
         <div className="project-block">
           <h1>04</h1>
-          <h3>quiz website</h3>
+          <h3>Quiz website</h3>
           <p>
             This site is a quiz site where you can take a test and see your
             score
