@@ -87,10 +87,10 @@ h1{
     .block2 p{
         width: 320px;
         margin-top: -40px;
-        text-align: center;
-        text-align: center;
+        text-align: left;
     }
     .block{
         margin: 0 auto;
     }
+    
 }

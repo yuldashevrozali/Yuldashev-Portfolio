@@ -76,3 +76,15 @@
     text-align: left;
     margin-bottom: 35px;
 }
+
+@media (max-width: 425px) {
+  .projects-blocks{
+    display: block;
+  }
+  .project-image-container img{
+    width: 300px;
+    height: 290px;
+    margin-top: 15px;
+  }
+  
+}
