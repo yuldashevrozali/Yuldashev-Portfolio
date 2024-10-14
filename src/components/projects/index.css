@@ -87,6 +87,10 @@
     margin-top: 15px;
   }
 
+  .projects-container{
+    width: 100%;
+  }
+
   .projects-blocks{
     margin: 0 auto;
   }
