@@ -9,7 +9,7 @@ import "./index.css";
 export default function Projects() {
   return (
     <div className="projects-container">
-      <h1>My Projects1</h1>
+      <h1>My Projects</h1>
       <div className="projects-blocks">
         <div className="project-block1">
           <a
